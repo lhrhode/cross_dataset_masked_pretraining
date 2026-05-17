@@ -50,7 +50,7 @@ The default `THYROID_ROOT` is the lab path
 `Thyroid_US/Thyroid Dataset/`. Set the env var
 if you're running anywhere else.
 
-Unzip Thyroid_US.zip and edit dataset paths accordingly.
+Downloand dataset from [Onedrive](https://livejohnshopkins-my.sharepoint.com/:f:/g/personal/lrhode1_jh_edu/IgCJ3W9y8v-MRKFTunCzUvkDAeiUcBttCKQ7NlR4_dZQwoY?e=YB0ccg), unzip Thyroid_US.zip and edit dataset paths accordingly.
 
 ## Usage
 
